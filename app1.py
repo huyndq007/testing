@@ -17,5 +17,5 @@ from usr.settings import Settings, PROJECT_NAME, FIRMWARE_NAME
 
 log = getLogger(__name__)
 
-log.debug("333")
+log.debug("444")
 
